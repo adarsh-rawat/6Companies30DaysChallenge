@@ -1,7 +1,6 @@
+//Q.15, No. 1358 on leetcode
 class Solution {
 public:
-    //Q.15 
-    //No. 1358 on leetcode
     int numberOfSubstrings(string s) {
         int left = 0, count = 0;
 
